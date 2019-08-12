@@ -13,6 +13,7 @@ public class AplikasiDosenApplication {
     public static void main(String[] args) {
         SpringApplication.run(AplikasiDosenApplication.class, args);
     }
+	//test JAVA 1234567890
 
     @Bean
     public PasswordEncoder passwordEncoder() {
